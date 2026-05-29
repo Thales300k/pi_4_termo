@@ -225,7 +225,6 @@ https://drive.google.com/
 # Link do Trello
 ```txt
 https://trello.com/b/XZt7qCC6
-```txt
 
 ---
 

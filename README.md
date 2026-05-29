@@ -4,7 +4,8 @@
 
 **Docente:** Professora Doutora Luciene Cristina Alves Rinaldi
 
----
+--
+
 
 # Estrutura
 
@@ -213,17 +214,21 @@ Nesta pasta estão disponíveis:
 
 # Vídeo da Apresentação
 
-Adicionar o link da apresentação:
 
 ```txt
 https://drive.google.com/
+
+
+
 ```
+
+# Link do Trello
 
 ---
 
 # Relatório
 
-O relatório completo do projeto encontra-se na pasta:
+O relatório completo e os arquivos do projeto encontram-se na pasta:
 
 ```txt
 Materiais

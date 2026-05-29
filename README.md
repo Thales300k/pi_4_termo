@@ -1,6 +1,6 @@
 # Sistema de Monitoramento Climático com ESP32 - PI Quarto Termo
 
-**Integrantes:** João, Guilherme, Marcos e Thales
+**Integrantes:** João Henrique, Guilherme, Marcos e Thales
 
 **Docente:** Professora Doutora Luciene Cristina Alves Rinaldi
 

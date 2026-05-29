@@ -4,12 +4,11 @@
 
 **Docente:** Professora Doutora Luciene Cristina Alves Rinaldi
 
---
-
+---
 
 # Estrutura
 
-### Hardware
+## Hardware
 
 * ESP32 DevKit V1
 * Sensor DHT22
@@ -17,17 +16,17 @@
 * Protoboard
 * Jumpers
 
-### Backend
+## Backend
 
 * Python
 * Flask
 * Flask-CORS
 
-### Banco de Dados
+## Banco de Dados
 
 * MySQL
 
-### Frontend
+## Frontend
 
 * React
 * Axios
@@ -127,13 +126,13 @@ Depois envie o código para o ESP32 utilizando a Arduino IDE.
 
 # Para Acessar
 
-### Frontend
+## Frontend
 
 ```txt
 http://localhost:3000
 ```
 
-### Backend API
+## Backend API
 
 ```txt
 http://localhost:5000
@@ -151,7 +150,7 @@ Adafruit Unified Sensor
 ArduinoJson
 ```
 
-Bibliotecas nativas:
+Bibliotecas nativas do ESP32:
 
 ```txt
 WiFi.h
@@ -208,23 +207,23 @@ Nesta pasta estão disponíveis:
 * Diagramas;
 * Imagens do projeto;
 * Apresentação;
-* Documentação técnica.
+* Documentação Técnica.
 
 ---
 
 # Vídeo da Apresentação
 
-
 ```txt
 https://drive.google.com/
-
-
-
 ```
 
+---
+
 # Link do Trello
+
 ```txt
 https://trello.com/b/XZt7qCC6
+```
 
 ---
 
@@ -240,4 +239,4 @@ Materiais
 
 # Objetivo do Projeto
 
-Desenvolver um sistema de monitoramento climático baseado em Internet das Coisas (IoT), utilizando ESP32 para coleta de dados ambientais, backend Flask para processamento das informações, banco MySQL para armazenamento e interface React para visualização em tempo real.
+Desenvolver um sistema de monitoramento climático baseado em Internet das Coisas (IoT), utilizando ESP32 para coleta de dados ambientais, backend Flask para processamento das informações, banco de dados MySQL para armazenamento das leituras e interface web React para visualização dos dados em tempo real.
